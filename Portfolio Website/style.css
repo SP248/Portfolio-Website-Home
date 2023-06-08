@@ -1,0 +1,50 @@
+/* Global Styles */
+body {
+    font-family: Comfortaa, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #333;
+    color: #060606;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #333;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+}
